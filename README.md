@@ -2,9 +2,9 @@
 
 ### Screenshots
 
-<img src="https://github.com/EliYakubov7/Rock-Paper-Scissors/blob/main/screenshots/start_game.png" width="1000">  
-<img src="https://github.com/EliYakubov7/Rock-Paper-Scissors/blob/main/screenshots/play_game.png" width="1000">  
-<img src="https://github.com/EliYakubov7/Rock-Paper-Scissors/blob/main/screenshots/player_wins.png" width="1000">  
+<img src="https://github.com/EliYakubov7/Rock-Paper-Scissors/blob/main/screenshots/start_game.png" width="250">  
+<img src="https://github.com/EliYakubov7/Rock-Paper-Scissors/blob/main/screenshots/play_game.png" width="250">  
+<img src="https://github.com/EliYakubov7/Rock-Paper-Scissors/blob/main/screenshots/player_wins.png" width="250">  
 
 ## Author
 
