@@ -2,9 +2,9 @@
 
 ### Screenshots
 
-<img src="https://github.com/EliYakubov7/Tic-Tac-Toe/blob/main/screenshots/empty_board.png" width="1000">  
-<img src="https://github.com/EliYakubov7/Tic-Tac-Toe/blob/main/screenshots/game_is_tied.png" width="1000">  
-<img src="https://github.com/EliYakubov7/Tic-Tac-Toe/blob/main/screenshots/x_has_won.png" width="1000">  
+<img src="https://github.com/EliYakubov7/Rock-Paper-Scissors/blob/main/screenshots/start_game.png" width="1000">  
+<img src="https://github.com/EliYakubov7/Rock-Paper-Scissors/blob/main/screenshots/play_game.png" width="1000">  
+<img src="https://github.com/EliYakubov7/Rock-Paper-Scissors/blob/main/screenshots/player_wins.png" width="1000">  
 
 ## Author
 
